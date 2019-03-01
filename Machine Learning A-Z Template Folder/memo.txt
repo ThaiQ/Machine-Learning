@@ -1,0 +1,3 @@
+panda: data import
+	iloc[role,column],: locate variables
+ 	: = all
